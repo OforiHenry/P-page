@@ -289,3 +289,6 @@ main {
   color: rgb(134 154 174 / 85%) !important;
 }
 
+.text-muted {
+  color: rgb(163 175 186 / 75%) !important;
+}
